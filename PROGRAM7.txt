@@ -1,0 +1,8 @@
+<html>
+<head><title>page 1</title>
+</head>
+<body>
+<p>Welcome to SIMATS</p>
+<a href="https://arms.sse.saveetha.com/">click here to login with ARMS website</a>
+</body>
+</html>

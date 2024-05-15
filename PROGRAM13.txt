@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>program 13</title>
+</head>
+<body>
+<table border= "1">
+<tr>
+<th> reg.number</th>
+<th> student name</th>
+<th> year/semester </th>
+<th>date of admission</th>
+</tr>
+<tr>
+<td> 192211078</td>
+<td> pardhu</td>
+<td> 7th</td>
+<td> 11/08/2022 </td>
+</tr>
+<tr>
+<td> 192211079 </td>
+<td> srav</td>
+<td>3rd</td>
+<td> 17/05/2023 </td>
+</tr>
+</table>
+</body>
+</html>

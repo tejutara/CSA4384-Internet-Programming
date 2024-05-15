@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>program 05</title>
+</head>
+<body>
+<center>
+<img src="C:\Users\Pardhu\Pictures\New folder\c1aae-16913350583342-1920.avif"height="200" width="400" align="middle"/>
+</center>
+</body>
+</html>

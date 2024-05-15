@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>program 09</title>
+</head>
+<body bgcolor="lavender">
+<font color="red"><marquee direction="left"> 
+Welcome to SIMATS CHENNAI</marquee></font>
+</body>
+</html>

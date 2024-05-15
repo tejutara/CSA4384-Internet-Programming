@@ -1,0 +1,9 @@
+<html>
+<frameset cols="*,*">
+<frame src="C:\anime\Fullmetal Alchemist-Brotherhood\Full Metal Alchemist Brotherhood EP 1.mp4" name="left">
+<frameset rows="50%,50%">
+<frame src="C:\Users\Pardhu\Downloads\Perfect Ed Sheeran-(PagalSongs.Com.IN).mp3" name="topright">
+<frame src="C:\anime\Weathering With You\EP.1.v0.1080p (1).mp4" name="topbuttom">
+</frameset>
+</frameset>
+</html>
